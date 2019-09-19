@@ -19,5 +19,12 @@ eclipse+jdk1.7+mysql5.6.42+tomcat7
 
 
 
-![image text](https://github.com/oy-xxh/Edu_System/blob/master/%E6%95%99%E5%8A%A1%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E7%99%BB%E5%BD%95.png)
+![image text](https://github.com/oyxxh/Edu_System/blob/master/%E6%95%99%E5%8A%A1%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E7%99%BB%E5%BD%95.png)
+![image text](https://github.com/oy-xxh/Edu_System/blob/master/%E7%AE%A1%E7%90%86%E5%91%98%E4%B8%BB%E7%95%8C%E9%9D%A2.png)
+![image text](https://github.com/oy-xxh/Edu_System/blob/master/%E6%95%99%E5%B8%88%E4%B8%BB%E7%95%8C%E9%9D%A2.png)
+![image text](https://github.com/oy-xxh/Edu_System/blob/master/%E5%AD%A6%E7%94%9F%E4%B8%BB%E7%95%8C%E9%9D%A2.png)
+![image text](https://github.com/oy-xxh/Edu_System/blob/master/%E5%AD%A6%E7%94%9F%E7%9A%84%E5%B7%B2%E9%80%89%E8%AF%BE%E7%A8%8B.png)
+![image text](https://github.com/oy-xxh/Edu_System/blob/master/%E5%AD%A6%E7%94%9F%E7%9A%84%E5%B7%B2%E9%80%89%E8%AF%BE%E7%A8%8B.png)
+![image text](https://github.com/oy-xxh/Edu_System/blob/master/%E4%BF%AE%E6%94%B9%E5%AF%86%E7%A0%81%E6%93%8D%E4%BD%9C.png)
+
 
